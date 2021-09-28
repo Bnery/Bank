@@ -27,7 +27,6 @@ namespace DIO.Bank
         #endregion Contructor
 
         #region Methods
-
         public bool Sacar(double ValorSaque)
         {
             if(this.Saldo - ValorSaque < (this.Credito * -1)){
@@ -62,10 +61,6 @@ namespace DIO.Bank
             retorno += "Credito " + this.Credito + " | ";
             return retorno;
         }
-
         #endregion Methods
     }
-
-
-
 }
