@@ -1,0 +1,14 @@
+C:\Bootcamp Everis New Talents #2 .NET\Transferencia-bancaria\DIO.Bank\DIO.Bank\bin\Debug\netcoreapp3.1\DIO.Bank.exe
+C:\Bootcamp Everis New Talents #2 .NET\Transferencia-bancaria\DIO.Bank\DIO.Bank\bin\Debug\netcoreapp3.1\DIO.Bank.deps.json
+C:\Bootcamp Everis New Talents #2 .NET\Transferencia-bancaria\DIO.Bank\DIO.Bank\bin\Debug\netcoreapp3.1\DIO.Bank.runtimeconfig.json
+C:\Bootcamp Everis New Talents #2 .NET\Transferencia-bancaria\DIO.Bank\DIO.Bank\bin\Debug\netcoreapp3.1\DIO.Bank.runtimeconfig.dev.json
+C:\Bootcamp Everis New Talents #2 .NET\Transferencia-bancaria\DIO.Bank\DIO.Bank\bin\Debug\netcoreapp3.1\DIO.Bank.dll
+C:\Bootcamp Everis New Talents #2 .NET\Transferencia-bancaria\DIO.Bank\DIO.Bank\bin\Debug\netcoreapp3.1\DIO.Bank.pdb
+C:\Bootcamp Everis New Talents #2 .NET\Transferencia-bancaria\DIO.Bank\DIO.Bank\obj\Debug\netcoreapp3.1\DIO.Bank.csproj.AssemblyReference.cache
+C:\Bootcamp Everis New Talents #2 .NET\Transferencia-bancaria\DIO.Bank\DIO.Bank\obj\Debug\netcoreapp3.1\DIO.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bootcamp Everis New Talents #2 .NET\Transferencia-bancaria\DIO.Bank\DIO.Bank\obj\Debug\netcoreapp3.1\DIO.Bank.AssemblyInfoInputs.cache
+C:\Bootcamp Everis New Talents #2 .NET\Transferencia-bancaria\DIO.Bank\DIO.Bank\obj\Debug\netcoreapp3.1\DIO.Bank.AssemblyInfo.cs
+C:\Bootcamp Everis New Talents #2 .NET\Transferencia-bancaria\DIO.Bank\DIO.Bank\obj\Debug\netcoreapp3.1\DIO.Bank.csproj.CoreCompileInputs.cache
+C:\Bootcamp Everis New Talents #2 .NET\Transferencia-bancaria\DIO.Bank\DIO.Bank\obj\Debug\netcoreapp3.1\DIO.Bank.dll
+C:\Bootcamp Everis New Talents #2 .NET\Transferencia-bancaria\DIO.Bank\DIO.Bank\obj\Debug\netcoreapp3.1\DIO.Bank.pdb
+C:\Bootcamp Everis New Talents #2 .NET\Transferencia-bancaria\DIO.Bank\DIO.Bank\obj\Debug\netcoreapp3.1\DIO.Bank.genruntimeconfig.cache
